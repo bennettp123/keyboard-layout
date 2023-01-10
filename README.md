@@ -2,7 +2,7 @@
 
 ## usage
 
-1. Download and install https://github.com/kiibohd/configurator
+1. Download and install [`KiiboHD Configurator`](https://github.com/kiibohd/configurator)
 2. `cat macOS.json | pbcopy`
 3. Launch `KiiboHD Configurator`, select keyboard type, etc
 4. `Import Keymap` (top right), and flash any desired changes
